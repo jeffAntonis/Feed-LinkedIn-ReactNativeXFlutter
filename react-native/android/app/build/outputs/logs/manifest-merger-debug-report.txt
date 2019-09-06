@@ -6,6 +6,7 @@ INJECTED from /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/re
 INJECTED from /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [:react-native-reanimated] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.60.5] /home/jeff/.gradle/caches/transforms-2/files-2.1/33bed51c57dc60f38d61e8a2f5f32793/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/jeff/.gradle/caches/transforms-2/files-2.1/33a5ef8588b7058b1212eb35fa85ce3c/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -137,6 +138,8 @@ INJECTED from /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/re
 INJECTED from /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/android/app/src/main/AndroidManifest.xml
 MERGED from [:react-native-reanimated] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/react-native/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /home/jeff/.gradle/caches/transforms-2/files-2.1/33bed51c57dc60f38d61e8a2f5f32793/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /home/jeff/.gradle/caches/transforms-2/files-2.1/33bed51c57dc60f38d61e8a2f5f32793/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/jeff/.gradle/caches/transforms-2/files-2.1/33a5ef8588b7058b1212eb35fa85ce3c/AndroidManifest.xml:7:5-9:41
