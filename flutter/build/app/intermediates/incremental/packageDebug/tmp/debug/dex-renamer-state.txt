@@ -1,4 +1,4 @@
-#Thu Sep 05 15:02:02 BRT 2019
-base.0=/home/jeff/Documentos/estudos/Feed-LinkedIn-ReactNativeXFlutter/flutter/build/app/intermediates/transforms/dexMerger/debug/0
+#Thu Sep 12 23:24:27 BRT 2019
+base.0=C\:\\Users\\jeffe\\Desktop\\projetos\\Feed-LinkedIn-ReactNativeXFlutter\\flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
